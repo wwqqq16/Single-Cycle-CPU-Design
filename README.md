@@ -48,5 +48,5 @@ The CPU will be built incrementally in the following phases:
 
 ## Conclusion
 
-The primary objective of this project is to build a functional single cycle CPU, understanding how various components fit together and build off each other. We will start small and gradually combine the components to create a working CPU that performs various ALU operations and register transfers.
+The primary objective of this project is to build a functional single cycle CPU, understanding how various components fit together and build off each other. We combine the components to create a working CPU that performs various ALU operations and register transfers.
 
